@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.11.30)  28 JAN 2017 10:48
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.11.30)  31 JAN 2017 17:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -536,13 +536,21 @@ Overfull \hbox (7.11319pt too wide) in paragraph at lines 32--33
  [] 
  []
 
-) (./5_owarini.tex [19] [20]
+File: img/currentDriver.JPG Graphic file (type bmp)
+<img/currentDriver.JPG> [19] [20]
+File: img/currentMeasurement.png Graphic file (type bmp)
+ <img/currentMeasurement.png>
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 82--83
+ [] 
+ []
+
+) (./5_owarini.tex [21] [22]
 第6章
-) (./6_sankou.tex [21
+) (./6_sankou.tex [23
 
-]) [22
+]) [24
 
-] [23
+] [25
 
 ] (./paper.aux)
 
@@ -553,12 +561,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2984 strings out of 493671
- 35303 string characters out of 6151254
+ 2993 strings out of 493671
+ 35533 string characters out of 6151254
  98589 words of memory out of 5000000
- 6428 multiletter control sequences out of 15000+600000
+ 6435 multiletter control sequences out of 15000+600000
  38811 words of font info for 102 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  34i,14n,45p,785b,378s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on paper.dvi (23 pages, 30484 bytes).
+Output written on paper.dvi (25 pages, 33560 bytes).
