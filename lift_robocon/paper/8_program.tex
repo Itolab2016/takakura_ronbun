@@ -1,0 +1,64 @@
+\chapter{付録　　電流計測プログラム}
+\begin{lstlisting}[basicstyle=\ttfamily\footnotesize]
+
+
+
+
+
+
+//電流計測
+\#include<FlexiTimer2.h>
+\#include"Motor.h"
+
+unsigned long timer_a = 0;
+const int ts = 1;
+
+const int pinI = 1;
+int current = 0.0;
+double var1 = 1;//1.1 / 1024 * 1.0 / 0.13;
+
+int pwm = 0;
+double voltage = 0.0;
+double var2 = 12.0 / 255.0;
+
+//モーター（入力1,2、PWM、加速度、サンプリング時間）、上限lim、下限lim
+//LimitMotor lift(new S_Motor(35, 34, 4, 255, ts), 66, 67);//昇降モーター
+//Motor lift(2, 3, 5);
+
+//電流計
+
+
+void setup() {
+    Serial.begin(115200);
+    //lift.is_brake = false;
+    analogReference(INTERNAL);
+    FlexiTimer2::set(ts, motorCalculat);//サンプリング時間毎にモーターの速度計算を行うタイマー割り込みの設定
+    FlexiTimer2::start();//タイマー割り込みの開始
+    current = var1 * analogRead(pinI);
+    voltage = var2 * pwm;
+    //pwm = 0;
+    pinMode(2, OUTPUT);
+    pinMode(3, OUTPUT);
+    pinMode(5, OUTPUT);
+}
+
+void loop() {
+    current = var1 * analogRead(pinI);
+    //lift.set_rotation_velocity(pwm);
+    digitalWrite(3, HIGH);
+    digitalWrite(2, LOW);
+    analogWrite(5, 0);
+    //pwm = (timer_a/1000.0 * 1.2 * 255.0/12.0);
+}
+
+void motorCalculat() {
+//    Serial.print(timer_a);
+//    Serial.print(' ');
+    Serial.print(pwm);
+    Serial.print(' ');
+    Serial.println(current);
+    //lift.loop();
+    timer_a += ts;
+}
+
+ \end{lstlisting}
