@@ -2,30 +2,35 @@
 \contentsline {section}{\numberline {1.1}研究の背景}{3}
 \contentsline {section}{\numberline {1.2}研究の目的}{3}
 \contentsline {section}{\numberline {1.3}本論文の構成}{4}
-\contentsline {chapter}{\numberline {第2章}リフトについて}{5}
-\contentsline {section}{\numberline {2.1}ロボコンのルール}{5}
-\contentsline {section}{\numberline {2.2}動作原理}{6}
-\contentsline {section}{\numberline {2.3}回路構造}{6}
-\contentsline {section}{\numberline {2.4}使用部品}{10}
-\contentsline {chapter}{\numberline {第3章}位置制御}{11}
-\contentsline {section}{\numberline {3.1}位置検出}{11}
-\contentsline {section}{\numberline {3.2}制御手法}{11}
-\contentsline {subsection}{\numberline {3.2.1}ＰＩＤ制御}{11}
-\contentsline {subsection}{\numberline {3.2.2}極配置法}{12}
-\contentsline {chapter}{\numberline {第4章}位置センサレス位置制御}{13}
-\contentsline {section}{\numberline {4.1}センサレスの有効性}{13}
-\contentsline {section}{\numberline {4.2}センサレス制御の方法}{13}
-\contentsline {subsection}{\numberline {4.2.1}制御対象のモデル}{14}
-\contentsline {subsection}{\numberline {4.2.2}制御系設計}{16}
-\contentsline {chapter}{\numberline {第5章}実験}{18}
-\contentsline {section}{\numberline {5.1}シミュレーション}{18}
-\contentsline {subsubsection}{シミュレーションソフト}{18}
-\contentsline {subsubsection}{シミュレーション結果}{18}
-\contentsline {subsubsection}{測定誤差の影響}{19}
-\contentsline {section}{\numberline {5.2}検出誤差の確認}{19}
-\contentsline {subsubsection}{使用機器}{20}
-\contentsline {subsubsection}{計測方法}{20}
-\contentsline {subsubsection}{電流計測}{21}
-\contentsline {chapter}{\numberline {第6章}おわりに}{23}
-\contentsline {chapter}{参考文献}{24}
-\contentsline {chapter}{謝辞}{25}
+\contentsline {chapter}{\numberline {第2章}リフトについて}{6}
+\contentsline {section}{\numberline {2.1}要求される仕様}{6}
+\contentsline {subsection}{\numberline {2.1.1}ロボコンのルール}{6}
+\contentsline {subsection}{\numberline {2.1.2}我々の戦略}{6}
+\contentsline {section}{\numberline {2.2}動作原理}{7}
+\contentsline {section}{\numberline {2.3}回路構造}{7}
+\contentsline {section}{\numberline {2.4}使用部品}{9}
+\contentsline {chapter}{\numberline {第3章}位置制御}{12}
+\contentsline {section}{\numberline {3.1}位置検出}{12}
+\contentsline {section}{\numberline {3.2}制御手法}{12}
+\contentsline {subsection}{\numberline {3.2.1}ＰＩＤ制御}{12}
+\contentsline {subsection}{\numberline {3.2.2}極配置法}{13}
+\contentsline {chapter}{\numberline {第4章}位置センサレス位置制御}{14}
+\contentsline {section}{\numberline {4.1}センサレスの有効性}{14}
+\contentsline {section}{\numberline {4.2}センサレス制御の方法}{14}
+\contentsline {subsection}{\numberline {4.2.1}制御対象のモデル}{15}
+\contentsline {subsection}{\numberline {4.2.2}制御系設計}{17}
+\contentsline {chapter}{\numberline {第5章}実験}{19}
+\contentsline {section}{\numberline {5.1}シミュレーション}{19}
+\contentsline {subsubsection}{シミュレーションソフト}{19}
+\contentsline {subsubsection}{シミュレーション結果}{19}
+\contentsline {subsubsection}{荷重の影響}{20}
+\contentsline {subsubsection}{測定誤差の影響}{20}
+\contentsline {subsubsection}{測定ノイズの影響}{21}
+\contentsline {section}{\numberline {5.2}検出誤差の確認}{21}
+\contentsline {subsubsection}{使用機器}{22}
+\contentsline {subsubsection}{計測方法}{24}
+\contentsline {subsubsection}{電流計測}{24}
+\contentsline {chapter}{\numberline {第6章}おわりに}{29}
+\contentsline {chapter}{参考文献}{30}
+\contentsline {chapter}{謝辞}{31}
+\contentsline {chapter}{\numberline {第7章}付録　　電流計測プログラム}{32}

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.11.30)  31 JAN 2017 17:30
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.11.30)  2 FEB 2017 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -291,52 +291,75 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@erf=\skip66
 \f@ncyO@olf=\skip67
 \f@ncyO@orf=\skip68
-)) (./paper.aux
+))
+(c:/w32tex/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count111
+\lst@gtempboxa=\box45
+\lst@token=\toks31
+\lst@length=\count112
+\lst@currlwidth=\dimen147
+\lst@column=\count113
+\lst@pos=\count114
+\lst@lostspace=\dimen148
+\lst@width=\dimen149
+\lst@newlines=\count115
+\lst@lineno=\count116
+\lst@maxwidth=\dimen150
 
-LaTeX Warning: Label `fig:sim' multiply defined.
-
+(c:/w32tex/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count117
+\lst@skipnumbers=\count118
+\lst@framebox=\box46
 )
+(c:/w32tex/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (./paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
- (I search kanjifont definition file: . . ) (I search font definition file: .
-. . . . . . )
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . )
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 11.
  (c:/w32tex/share/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
+\c@lstlisting=\count119
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 16.
+(Font)              scaled to size 9.60999pt on input line 20.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 16.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 16.
+(Font)              scaled to size 9.60999pt on input line 20.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 20.
 
 (c:/w32tex/share/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
+(Font)              scaled to size 23.90964pt on input line 20.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
+(Font)              scaled to size 23.90964pt on input line 20.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
+(Font)              scaled to size 23.90964pt on input line 20.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 16.
+(Font)              scaled to size 23.90964pt on input line 20.
  (./paper.toc
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 2.
 
@@ -423,66 +446,54 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 10.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 10.
-) [3
+ [3
 
-] (./7_liftkouzou.tex [4]
+]) (./7_liftkouzou.tex [4] [5]
 第2章
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 4.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 4.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 4.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 4.
 File: img/field.png Graphic file (type bmp)
 <img/field.png>
 File: img/tumikata.png Graphic file (type bmp)
  <img/tumikata.png>
-Overfull \hbox (35.56593pt too wide) in paragraph at lines 18--19
- [] 
- []
-
-[5
+File: img/plabox.png Graphic file (type bmp)
+ <img/plabox.png> [6
 
 ]
-File: img/plabox.png Graphic file (type bmp)
- <img/plabox.png>
 File: img/lift.jpg Graphic file (type bmp)
- <img/lift.jpg> [6]
-
-LaTeX Warning: Text page 7 contains only floats.
-
-
-Overfull \vbox (5.8494pt too high) has occurred while \output is active []
-
-
-[7]
+ <img/lift.jpg>
 File: img/roboblock.png Graphic file (type bmp)
- <img/roboblock.png>
+
+<img/roboblock.png> [7]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+
+Overfull \vbox (4.9876pt too high) has occurred while \output is active []
+
+
+[8]
 File: img/arduinoMega.JPG Graphic file (type bmp)
  <img/arduinoMega.JPG>
 File: img/USBhs.JPG Graphic file (type bmp)
  <img/USBhs.JPG>
 File: img/motordrive.JPG Graphic file (type bmp)
-
-<img/motordrive.JPG> [8]
-
-LaTeX Warning: Text page 9 contains only floats.
-
-
-Overfull \vbox (4.29715pt too high) has occurred while \output is active []
-
-
-[9]) (./2_itiseigyo.tex [10]
+ <img/motordrive.JPG>)
+(./2_itiseigyo.tex [9] [10] [11]
 第3章
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 9.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 9.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 9.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 9.
-[11
+[12
 
 ]
 File: img/PID.png Graphic file (type bmp)
- <img/PID.png>) (./3_sensaresuitiseigyo.tex [12]
+ <img/PID.png>) (./3_sensaresuitiseigyo.tex [13]
 第4章
-[13
+[14
 
 ]
 File: img/liftModel.png Graphic file (type bmp)
@@ -502,7 +513,7 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 32.
 
-LaTeX Warning: Reference `fig:circuitModel' on page 14 undefined on input line 
+LaTeX Warning: Reference `fig:circuitModel' on page 15 undefined on input line 
 32.
 
 File: img/circuitmodel.png Graphic file (type bmp)
@@ -511,9 +522,9 @@ Overfull \hbox (7.11319pt too wide) in paragraph at lines 36--37
  [] 
  []
 
-[14] [15]
+[15] [16]
 File: img/blocksenzu.png Graphic file (type bmp)
- <img/blocksenzu.png>) (./4_zikkenn.tex [16] [17]
+ <img/blocksenzu.png>) (./4_zikkenn.tex [17] [18]
 第5章
 File: img/blockXcos.png Graphic file (type bmp)
 <img/blockXcos.png>
@@ -527,46 +538,86 @@ Overfull \hbox (7.11319pt too wide) in paragraph at lines 21--22
  [] 
  []
 
-[18
+[19
 
 ]
-File: img/sim2.bmp Graphic file (type bmp)
- <img/sim2.bmp>
+File: img/sim4.bmp Graphic file (type bmp)
+ <img/sim4.bmp>
 Overfull \hbox (7.11319pt too wide) in paragraph at lines 32--33
  [] 
  []
 
-File: img/currentDriver.JPG Graphic file (type bmp)
-<img/currentDriver.JPG> [19] [20]
-File: img/currentMeasurement.png Graphic file (type bmp)
- <img/currentMeasurement.png>
-Overfull \hbox (7.11319pt too wide) in paragraph at lines 82--83
+File: img/sim5.bmp Graphic file (type bmp)
+<img/sim5.bmp>
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 45--46
  [] 
  []
 
-) (./5_owarini.tex [21] [22]
+[20]
+File: img/sim2.bmp Graphic file (type bmp)
+ <img/sim2.bmp>
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 58--59
+ [] 
+ []
+
+File: img/currentDriver.JPG Graphic file (type bmp)
+<img/currentDriver.JPG> [21] [22]
+Overfull \vbox (6.47159pt too high) has occurred while \output is active []
+
+
+[23]
+File: img/currentMeasurement.png Graphic file (type bmp)
+ <img/currentMeasurement.png>
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 114--115
+ [] 
+ []
+
+[24]
+File: img/currentMeasurement2.png Graphic file (type bmp)
+ <img/currentMeasurement2.png>
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 126--127
+ [] 
+ []
+
+[25]
+File: img/osiro_0.jpg Graphic file (type bmp)
+ <img/osiro_0.jpg>
+File: img/osiro_seiten.jpg Graphic file (type bmp)
+ <img/osiro_seiten.jpg>
+File: img/osiro_gyakuten.jpg Graphic file (type bmp)
+ <img/osiro_gyakuten.jpg>)
+(./5_owarini.tex [26] [27] [28]
 第6章
-) (./6_sankou.tex [23
+) (./6_sankou.tex [29
 
-]) [24
+]) [30
 
-] [25
+] (./8_program.tex [31
 
-] (./paper.aux)
+]
+第7章
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 2.
+(c:/w32tex/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 2.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 2.
+ [32
+
+]) [33] (./paper.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 2993 strings out of 493671
- 35533 string characters out of 6151254
- 98589 words of memory out of 5000000
- 6435 multiletter control sequences out of 15000+600000
- 38811 words of font info for 102 fonts, out of 8000000 for 9000
+ 4227 strings out of 493671
+ 54144 string characters out of 6151254
+ 127194 words of memory out of 5000000
+ 7643 multiletter control sequences out of 15000+600000
+ 41362 words of font info for 107 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 34i,14n,45p,785b,378s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 34i,14n,45p,785b,1677s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on paper.dvi (25 pages, 33560 bytes).
+Output written on paper.dvi (33 pages, 44484 bytes).
