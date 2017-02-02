@@ -1,24 +1,35 @@
 \chapter{リフトについて}
 
-\section{ロボコンのルール}
-今年度のロボコンのタイトルは「ロボット・ニューフロンティア」で、新大陸の開拓をテーマとしている.今回の競技フィールドを（図\ref{fig:field}）に示す.新大陸では,スタート地点から運んできたプラスティック製段ボールの箱を（図\ref{fig:plabox}）を高く積み上げる課題が課されており,2チームでいかに高く積み上げるかを競い合う競技となっている.同じ数の箱を積み上げる場合,箱の長手方向を縦向きにして積み上げる方が高く積み上げられる.よってリフトの可動高さを400[mm]になるよう設計,製作した.プラスティック段ボールの積み方を（図\ref{fig:tumikata}）に示す.
-
+\section{要求される仕様}
+\subsection{ロボコンのルール}
+今年度のロボコンのタイトルは「ロボット・ニューフロンティア」で,新大陸の開拓をテーマとしている.今回の競技フィールドを（図\ref{fig:field}）に示す.新大陸では,スタート地点から運んできたプラスティック製段ボールの箱（図\ref{fig:plabox}）を高く積み上げる課題が課されている.港町と島,島と新大陸までの間の海にはロボットは接地してはならない.積み上げロボットはスタート地点と島に置いてあるプラスティック製段ボールを取りに行き高台に小さい砦を積み上げる.高台の砦が完成後,新大陸に向かい丘に砦を完成させる.これを2チームでいかに高く積み上げるかを競い合う競技となっている.
 
 \begin{figure}[htbp]
   \begin{center}
-    \includegraphics[width=110mm]{img/field.png}
+    \includegraphics[width=130mm]{img/field.png}
     \end{center}
   \caption{競技フィールド}
  \label{fig:field}
 \end{figure}
 
+\subsection{我々の戦略}
+プラスティック製段ボールの積み方を（図\ref{fig:tumikata}）に示すように,同じ数の箱を積み上げる場合,箱の長手方向を縦向きにして積み上げる方が高く積み上げられる.よってリフトの可動高さを400[mm]になるよう設計,製作した.だが,長手方向を縦向きにすることで重心位置が高くなり,底面積が減るため落下時にバランスが崩れ,倒れる恐れがあるため注意する必要がある.
+
 
 \begin{figure}[htbp]
   \begin{center}
-    \includegraphics[width=160mm]{img/tumikata.png}
+    \includegraphics[width=90mm]{img/tumikata.png}
     \end{center}
   \caption{プラスティック段ボールの積み方}
  \label{fig:tumikata}
+\end{figure}
+
+\begin{figure}[htbp]
+  \begin{center}
+    \includegraphics[width=100mm]{img/plabox.png}
+    \end{center}
+  \caption{プラ段の箱の仕様}
+ \label{fig:plabox}
 \end{figure}
 
 
@@ -30,13 +41,6 @@
 リフト上端と下端に設置してあるリミットセンサには通過型フォトインタラプタを使用している.リミットセンサは距離が400[mm]になるように位置が調整されているため,箱を400[mm]の高さに持ち上げることが出来る.
 
 
-\begin{figure}[htbp]
-  \begin{center}
-    \includegraphics[width=100mm]{img/plabox.png}
-    \end{center}
-  \caption{プラ段の箱の仕様}
- \label{fig:plabox}
-\end{figure}
 
 \begin{figure}[htbp]
   \begin{center}
