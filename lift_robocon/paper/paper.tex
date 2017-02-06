@@ -1,6 +1,27 @@
 \documentclass[12pt,oneside]{paper}
 
 \usepackage{listings}
+\renewcommand{\lstlistingname}{saucecode}
+
+\lstset{%
+  language={C},
+  basicstyle={\small},%
+  identifierstyle={\small},%
+  commentstyle={\small\itshape},%
+  keywordstyle={\small\bfseries},%
+  ndkeywordstyle={\small},%
+  stringstyle={\small\ttfamily},
+  frame={tb},
+  breaklines=true,
+  columns=[l]{fullflexible},%
+  numbers=left,%
+  xrightmargin=0zw,%
+  xleftmargin=3zw,%
+  numberstyle={\scriptsize},%
+  stepnumber=1,
+  numbersep=1zw,%
+  lineskip=-0.5ex%
+}
 
 
 
@@ -45,6 +66,7 @@
 
 その他,助けていただいた多くの皆様に心から感謝しております.ありがとうございました.
 
+\appendix
 \input{8_program}
 
 
