@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.11.30)  6 FEB 2017 18:44
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.11.30)  14 FEB 2017 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,9 +497,9 @@ File: img/motordrive.JPG Graphic file (type bmp)
 
 ]
 File: img/PID.png Graphic file (type bmp)
- <img/PID.png>) (./3_sensaresuitiseigyo.tex [13]
+ <img/PID.png> [13]) (./3_sensaresuitiseigyo.tex [14]
 第4章
-[14
+[15
 
 ]
 File: img/liftModel.png Graphic file (type bmp)
@@ -508,29 +508,15 @@ Overfull \hbox (64.01869pt too wide) in paragraph at lines 14--15
  [] 
  []
 
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 32.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 32.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 32.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 32.
-
-LaTeX Warning: Reference `fig:circuitModel' on page 15 undefined on input line 
-32.
-
 File: img/circuitmodel.png Graphic file (type bmp)
 <img/circuitmodel.png>
 Overfull \hbox (7.11319pt too wide) in paragraph at lines 36--37
  [] 
  []
 
-[15] [16]
-File: img/blocksenzu.png Graphic file (type bmp)
- <img/blocksenzu.png>) (./4_zikkenn.tex [17] [18]
+[16] [17]
+File: img/burokkusennzu.png Graphic file (type bmp)
+ <img/burokkusennzu.png> [18]) (./4_zikkenn.tex [19]
 第5章
 File: img/blockXcos.png Graphic file (type bmp)
 <img/blockXcos.png>
@@ -544,7 +530,7 @@ Overfull \hbox (7.11319pt too wide) in paragraph at lines 21--22
  [] 
  []
 
-[19
+[20
 
 ]
 File: img/sim4.bmp Graphic file (type bmp)
@@ -559,7 +545,7 @@ Overfull \hbox (7.11319pt too wide) in paragraph at lines 45--46
  [] 
  []
 
-[20]
+[21]
 File: img/sim2.bmp Graphic file (type bmp)
  <img/sim2.bmp>
 Overfull \hbox (7.11319pt too wide) in paragraph at lines 58--59
@@ -567,38 +553,38 @@ Overfull \hbox (7.11319pt too wide) in paragraph at lines 58--59
  []
 
 File: img/currentDriver.JPG Graphic file (type bmp)
-<img/currentDriver.JPG> [21] [22]
+<img/currentDriver.JPG> [22] [23]
 Overfull \vbox (6.47159pt too high) has occurred while \output is active []
 
 
-[23]
+[24]
 File: img/currentMeasurement.png Graphic file (type bmp)
  <img/currentMeasurement.png>
 Overfull \hbox (7.11319pt too wide) in paragraph at lines 114--115
  [] 
  []
 
-[24]
-File: img/currentMeasurement2.png Graphic file (type bmp)
- <img/currentMeasurement2.png>
+[25]
+File: img/currentMeasurement3.png Graphic file (type bmp)
+ <img/currentMeasurement3.png>
 Overfull \hbox (7.11319pt too wide) in paragraph at lines 126--127
  [] 
  []
 
-[25]
+[26]
 File: img/osiro_0.jpg Graphic file (type bmp)
  <img/osiro_0.jpg>
 File: img/osiro_seiten.jpg Graphic file (type bmp)
  <img/osiro_seiten.jpg>
 File: img/osiro_gyakuten.jpg Graphic file (type bmp)
  <img/osiro_gyakuten.jpg>)
-(./5_owarini.tex [26] [27] [28]
+(./5_owarini.tex [27] [28] [29]
 第6章
-) (./6_sankou.tex [29
+) (./6_sankou.tex [30
 
-]) [30
+]) [31
 
-] (./8_program.tex [31
+] (./8_program.tex [32
 
 ]
 付録A
@@ -625,25 +611,25 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 4.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
- [32
+ [33
 
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 48.
 
 (c:/w32tex/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-))) [33] (./paper.aux)
+))) [34] (./paper.aux)
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4409 strings out of 493671
- 56565 string characters out of 6151254
+ 4405 strings out of 493671
+ 56517 string characters out of 6151254
  184967 words of memory out of 5000000
- 7815 multiletter control sequences out of 15000+600000
- 44457 words of font info for 108 fonts, out of 8000000 for 9000
+ 7811 multiletter control sequences out of 15000+600000
+ 42761 words of font info for 107 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 34i,14n,49p,785b,1781s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 34i,14n,49p,794b,1781s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on paper.dvi (33 pages, 43396 bytes).
+Output written on paper.dvi (34 pages, 44568 bytes).

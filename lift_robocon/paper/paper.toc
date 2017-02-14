@@ -14,23 +14,23 @@
 \contentsline {section}{\numberline {3.2}制御手法}{12}
 \contentsline {subsection}{\numberline {3.2.1}ＰＩＤ制御}{12}
 \contentsline {subsection}{\numberline {3.2.2}極配置法}{13}
-\contentsline {chapter}{\numberline {第4章}位置センサレス位置制御}{14}
-\contentsline {section}{\numberline {4.1}センサレスの有効性}{14}
-\contentsline {section}{\numberline {4.2}センサレス制御の方法}{14}
-\contentsline {subsection}{\numberline {4.2.1}制御対象のモデル}{15}
-\contentsline {subsection}{\numberline {4.2.2}制御系設計}{17}
-\contentsline {chapter}{\numberline {第5章}実験}{19}
-\contentsline {section}{\numberline {5.1}シミュレーション}{19}
-\contentsline {subsubsection}{シミュレーションソフト}{19}
-\contentsline {subsubsection}{シミュレーション結果}{19}
-\contentsline {subsubsection}{荷重の影響}{20}
-\contentsline {subsubsection}{測定誤差の影響}{20}
-\contentsline {subsubsection}{測定ノイズの影響}{21}
-\contentsline {section}{\numberline {5.2}検出誤差の確認}{21}
-\contentsline {subsubsection}{使用機器}{22}
-\contentsline {subsubsection}{計測方法}{24}
-\contentsline {subsubsection}{電流計測}{24}
-\contentsline {chapter}{\numberline {第6章}おわりに}{29}
-\contentsline {chapter}{参考文献}{30}
-\contentsline {chapter}{謝辞}{31}
-\contentsline {chapter}{\numberline {付録A}プログラム}{32}
+\contentsline {chapter}{\numberline {第4章}位置センサレス位置制御}{15}
+\contentsline {section}{\numberline {4.1}センサレスの有効性}{15}
+\contentsline {section}{\numberline {4.2}センサレス制御の方法}{15}
+\contentsline {subsection}{\numberline {4.2.1}制御対象のモデル}{16}
+\contentsline {subsection}{\numberline {4.2.2}制御系設計}{18}
+\contentsline {chapter}{\numberline {第5章}実験}{20}
+\contentsline {section}{\numberline {5.1}シミュレーション}{20}
+\contentsline {subsubsection}{シミュレーションソフト}{20}
+\contentsline {subsubsection}{シミュレーション結果}{20}
+\contentsline {subsubsection}{荷重の影響}{21}
+\contentsline {subsubsection}{測定誤差の影響}{21}
+\contentsline {subsubsection}{測定ノイズの影響}{22}
+\contentsline {section}{\numberline {5.2}検出誤差の確認}{22}
+\contentsline {subsubsection}{使用機器}{23}
+\contentsline {subsubsection}{計測方法}{25}
+\contentsline {subsubsection}{電流計測}{25}
+\contentsline {chapter}{\numberline {第6章}おわりに}{30}
+\contentsline {chapter}{参考文献}{31}
+\contentsline {chapter}{謝辞}{32}
+\contentsline {chapter}{\numberline {付録A}プログラム}{33}
